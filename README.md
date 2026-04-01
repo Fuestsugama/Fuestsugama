@@ -1,14 +1,16 @@
 # Hi there, 
 Welcome to my profil 
 ## few things about me
-- trying to be a  developer  / student / Passionate about tech, finance 
+- trying to be a  developer  / student / Passionate about tech, finance
+  
 -currently learning plenty of different stuff: AI, Google tools, sql c++ python sql 
+
 -main goal : be good at everything
 
 - ## Technologies
 - Langages : JavaScript, Python, C++
 - Outils : Git, Docker, VS Code
-## Me contacter
+## contact me 
 - Email : baptiste.comby@gmail.com
 - LinkedIn : https://www.linkedin.com/in/baptiste-comby-771ab3311/
 
