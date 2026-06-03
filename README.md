@@ -10,17 +10,17 @@ Enjoying learning new things. My goal: working at Google.
   
 -currently learning plenty of different stuff: AI, Google tools, SQL, C++, Python 
 
--main goal: be good at everything and able to work as a data engineer, scientist, and analyst. 
+-main goal: be good at everything and able to work as a data engineer, scientist, and analyst ==> ML obsessed 
 
 - ## Technologies
-- Languages: JavaScript, Python, C++, sql
-- tools: Git, Docker, VS Code, Excel, Power BI, Elastic Search, kibana, Zookeeper, bloomberg 
+- Languages: JavaScript, Python/Pyspark, C++, SQL, R 
+- tools: Git, Docker, VS Code, Excel, Power BI, Elastic Search, Kibana, Zookeeper, Bloomberg 
   
 - ## language
 - French
 - English
   
-## contact me (only for personal purposes pls ) 
+## contact me (only for personal purposes pls) 
 - Email : baptiste.comby@gmail.com
 - LinkedIn : https://www.linkedin.com/in/baptiste-comby-771ab3311/
 
